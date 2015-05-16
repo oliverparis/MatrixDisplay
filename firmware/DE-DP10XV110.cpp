@@ -42,7 +42,7 @@ PORTC &= ~(1 << (_pin -14) ))
 // Encode the Y coordinate to a bit #
 #define CalcBit(y) (1 << (y > 7 ? y -8 : y))
 
-#include "MatrixDisplay.h"
+#include "DE-DP10XV110.h"
 
 #define NULL                0
 #define BACKBUFFER_SIZE     32
