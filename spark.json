@@ -1,0 +1,7 @@
+{
+  "name": "MatrixDisplay",
+  "author": "Oliver Paris",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Particle (Spark) Core Library for driving Sure Electronics DE-DP10XV110"
+}
